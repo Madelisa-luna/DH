@@ -1,0 +1,303 @@
+
+===== Nueva B�squeda =====
+Vector consultado: [14.689261, -62.708457, -3.551051]
+Vector cercano: [13.866, -59.3241, -3.6585]
+聲gulos: (48.0, -84.0)
+Cent璥etros: -84.0
+Distancia euclidiana: 3.4847
+
+Vector consultado: [15.839243, -46.569698, -9.068804]
+Vector cercano: [15.8988, -47.4073, -8.98767]
+聲gulos: (18.0, 3.0)
+Cent璥etros: 3.0
+Distancia euclidiana: 0.8436
+
+Vector consultado: [17.111487, -47.0075, -15.337107]
+Vector cercano: [16.941, -47.2245, -15.4548]
+聲gulos: (15.0, 15.0)
+Cent璥etros: 15.0
+Distancia euclidiana: 0.3000
+
+Vector consultado: [18.030763, -49.942338, -13.239248]
+Vector cercano: [17.7984, -50.0, -12.9313]
+聲gulos: (0.0, 54.0)
+Cent璥etros: 54.0
+Distancia euclidiana: 0.3901
+
+Vector consultado: [17.22824, -47.748314, -20.135219]
+Vector cercano: [17.2506, -47.7754, -20.098]
+聲gulos: (30.0, -24.0)
+Cent璥etros: -24.0
+Distancia euclidiana: 0.0512
+
+Vector consultado: [16.583064, -50.097097, -3.911272]
+Vector cercano: [16.6285, -50.0, -3.5345]
+聲gulos: (0.0, 78.0)
+Cent璥etros: 78.0
+Distancia euclidiana: 0.3917
+
+Vector consultado: [11.753313, -46.353187, -7.175053]
+Vector cercano: [12.2342, -48.4857, -6.96165]
+聲gulos: (15.0, -6.0)
+Cent璥etros: -6.0
+Distancia euclidiana: 2.1965
+
+Vector consultado: [14.688735, -45.918748, -3.189032]
+Vector cercano: [15.3015, -47.6013, -2.99589]
+聲gulos: (18.0, -3.0)
+Cent璥etros: -3.0
+Distancia euclidiana: 1.8010
+
+Vector consultado: [28.252736, -47.121272, 0.655035]
+Vector cercano: [28.1004, -47.3219, 0.0]
+聲gulos: (6.0, 90.0)
+Cent璥etros: 90.0
+Distancia euclidiana: 0.7018
+
+Vector consultado: [-21.260741, -45.632701, -16.696127]
+Vector cercano: [-20.9829, -50.0, -16.9916]
+聲gulos: (0.0, -51.0)
+Cent璥etros: -51.0
+Distancia euclidiana: 4.3861
+
+Vector consultado: [35.694366, -43.110642, -18.790554]
+Vector cercano: [35.7184, -43.5248, -18.8091]
+聲gulos: (12.0, 54.0)
+Cent璥etros: 54.0
+Distancia euclidiana: 0.4153
+
+Vector consultado: [41.972905, -39.552744, -16.78493]
+Vector cercano: [42.7854, -39.197, -17.0]
+聲gulos: (78.0, -60.0)
+Cent璥etros: -60.0
+Distancia euclidiana: 0.9127
+
+Vector consultado: [38.527561, -34.803331, -26.703494]
+Vector cercano: [38.3671, -34.8348, -26.7302]
+聲gulos: (63.0, -27.0)
+Cent璥etros: -27.0
+Distancia euclidiana: 0.1657
+
+Vector consultado: [40.363519, -35.79833, -16.835897]
+Vector cercano: [40.021, -35.263, -16.7283]
+聲gulos: (69.0, -48.0)
+Cent璥etros: -48.0
+Distancia euclidiana: 0.6446
+
+Vector consultado: [50.103474, -27.232164, -1.609702]
+Vector cercano: [49.845, -27.2484, -1.41307]
+聲gulos: (33.0, 87.0)
+Cent璥etros: 87.0
+Distancia euclidiana: 0.3252
+
+Vector consultado: [41.022027, -24.054016, -2.942715]
+Vector cercano: [43.1445, -25.2716, -2.98357]
+聲gulos: (60.0, -6.0)
+Cent璥etros: -6.0
+Distancia euclidiana: 2.4473
+
+Vector consultado: [48.364223, -20.197191, -12.273749]
+Vector cercano: [48.1497, -19.9909, -11.9571]
+聲gulos: (51.0, 51.0)
+Cent璥etros: 51.0
+Distancia euclidiana: 0.4346
+
+Vector consultado: [41.84773, -22.981471, 3.397757]
+Vector cercano: [43.8013, -24.134, 0.0]
+聲gulos: (60.0, 90.0)
+Cent璥etros: 90.0
+Distancia euclidiana: 4.0853
+
+Vector consultado: [49.615561, -20.814763, -22.171818]
+Vector cercano: [49.5497, -21.1609, -22.2943]
+聲gulos: (45.0, 42.0)
+Cent璥etros: 42.0
+Distancia euclidiana: 0.3730
+
+Vector consultado: [50.154661, -17.424673, -23.145687]
+Vector cercano: [50.0, -17.0458, -23.4615]
+聲gulos: (90.0, -36.0)
+Cent璥etros: -36.0
+Distancia euclidiana: 0.5169
+
+Vector consultado: [49.708011, -6.936604, -18.452978]
+Vector cercano: [49.7247, -6.56171, -18.5848]
+聲gulos: (87.0, -12.0)
+Cent璥etros: -12.0
+Distancia euclidiana: 0.3977
+
+Vector consultado: [47.267706, -3.015741, -16.631215]
+Vector cercano: [49.8849, -3.50529, -16.9767]
+聲gulos: (87.0, -3.0)
+Cent璥etros: -3.0
+Distancia euclidiana: 2.6849
+
+Vector consultado: [50.31929, 1.339759, -9.083806]
+Vector cercano: [50.1443, 1.44499, -9.13545]
+聲gulos: (87.0, 24.0)
+Cent璥etros: 24.0
+Distancia euclidiana: 0.2106
+
+Vector consultado: [55.976305, 4.264185, -11.072619]
+Vector cercano: [55.6341, 3.63885, -10.9819]
+聲gulos: (120.0, -66.0)
+Cent璥etros: -66.0
+Distancia euclidiana: 0.7186
+
+Vector consultado: [45.613253, 4.654708, -3.064712]
+Vector cercano: [49.7425, 5.07028, -2.99589]
+聲gulos: (96.0, -3.0)
+Cent璥etros: -3.0
+Distancia euclidiana: 4.1507
+
+Vector consultado: [46.855922, 14.446618, -29.435302]
+Vector cercano: [47.9035, 14.407, -28.9603]
+聲gulos: (105.0, 3.0)
+Cent璥etros: 3.0
+Distancia euclidiana: 1.1509
+
+Vector consultado: [52.373318, 14.608796, -2.001634]
+Vector cercano: [52.6265, 14.4625, -2.29963]
+聲gulos: (129.0, -84.0)
+Cent璥etros: -84.0
+Distancia euclidiana: 0.4175
+
+Vector consultado: [54.721117, 18.803305, -16.574823]
+Vector cercano: [55.0293, 18.4058, -17.0]
+聲gulos: (78.0, 60.0)
+Cent璥etros: 60.0
+Distancia euclidiana: 0.6586
+
+Vector consultado: [43.868917, 22.714597, -2.192276]
+Vector cercano: [44.4083, 22.9783, -1.97538]
+聲gulos: (117.0, 9.0)
+Cent璥etros: 9.0
+Distancia euclidiana: 0.6384
+
+Vector consultado: [41.912208, 25.496354, -3.228893]
+Vector cercano: [42.8377, 25.8028, -2.85317]
+聲gulos: (120.0, 18.0)
+Cent璥etros: 18.0
+Distancia euclidiana: 1.0448
+
+Vector consultado: [48.879214, 31.74288, -7.808443]
+Vector cercano: [48.4149, 31.5549, -7.76457]
+聲gulos: (93.0, 75.0)
+Cent璥etros: 75.0
+Distancia euclidiana: 0.5028
+
+Vector consultado: [38.790022, 25.10026, 3.867363]
+Vector cercano: [42.3013, 26.7321, 0.0]
+聲gulos: (120.0, 90.0)
+Cent璥etros: 90.0
+Distancia euclidiana: 5.4725
+
+Vector consultado: [37.011498, 37.525089, -0.031702]
+Vector cercano: [36.9556, 37.2865, 0.0]
+聲gulos: (153.0, -90.0)
+Cent璥etros: -90.0
+Distancia euclidiana: 0.2471
+
+Vector consultado: [39.381419, 33.664456, -2.812317]
+Vector cercano: [39.5371, 33.9425, -3.11868]
+聲gulos: (147.0, -78.0)
+Cent璥etros: -78.0
+Distancia euclidiana: 0.4420
+
+Vector consultado: [36.352299, 36.419497, -20.10952]
+Vector cercano: [36.3201, 36.7656, -20.1281]
+聲gulos: (150.0, -33.0)
+Cent璥etros: -33.0
+Distancia euclidiana: 0.3481
+
+Vector consultado: [31.828188, 45.175435, -12.805475]
+Vector cercano: [32.4628, 45.4817, -12.7117]
+聲gulos: (171.0, -63.0)
+Cent璥etros: -63.0
+Distancia euclidiana: 0.7109
+
+Vector consultado: [32.069823, 39.471337, -25.547489]
+Vector cercano: [32.2256, 39.1295, -25.6785]
+聲gulos: (150.0, -18.0)
+Cent璥etros: -18.0
+Distancia euclidiana: 0.3978
+
+Vector consultado: [27.600063, 40.951167, -11.816703]
+Vector cercano: [27.8706, 41.5542, -11.8523]
+聲gulos: (144.0, 9.0)
+Cent璥etros: 9.0
+Distancia euclidiana: 0.6619
+
+Vector consultado: [23.138743, 48.657031, -15.6365]
+Vector cercano: [23.0825, 49.0882, -15.2824]
+聲gulos: (132.0, 54.0)
+Cent璥etros: 54.0
+Distancia euclidiana: 0.5608
+
+Vector consultado: [-42.545779, 36.68615, -6.91355]
+Vector cercano: [-42.2662, 37.3328, -6.98811]
+聲gulos: (201.0, 75.0)
+Cent璥etros: 75.0
+Distancia euclidiana: 0.7084
+
+Vector consultado: [-31.509854, 44.430898, -21.197948]
+Vector cercano: [-31.1452, 44.4969, -21.2132]
+聲gulos: (192.0, 45.0)
+Cent璥etros: 45.0
+Distancia euclidiana: 0.3709
+
+Vector consultado: [16.066669, 50.113424, -1.239179]
+Vector cercano: [15.9781, 50.0, -0.837375]
+聲gulos: (180.0, -87.0)
+Cent璥etros: -87.0
+Distancia euclidiana: 0.4268
+
+Vector consultado: [15.964507, 52.687484, -18.963272]
+Vector cercano: [16.1306, 52.7576, -18.8796]
+聲gulos: (138.0, 51.0)
+Cent璥etros: 51.0
+Distancia euclidiana: 0.1988
+
+Vector consultado: [3.898683, 53.900054, -10.570745]
+Vector cercano: [4.03929, 53.8856, -10.4418]
+聲gulos: (198.0, -63.0)
+Cent璥etros: -63.0
+Distancia euclidiana: 0.1913
+
+Vector consultado: [-3.58869, 45.968814, 0.006344]
+Vector cercano: [-3.61543, 49.8791, 0.0]
+聲gulos: (183.0, 90.0)
+Cent璥etros: 90.0
+Distancia euclidiana: 3.9104
+
+Vector consultado: [-15.255905, 48.597934, -2.401981]
+Vector cercano: [-15.3365, 48.1942, -2.47214]
+聲gulos: (189.0, 72.0)
+Cent璥etros: 72.0
+Distancia euclidiana: 0.4176
+
+Vector consultado: [-2.181238, 52.015447, -19.257303]
+Vector cercano: [-2.03444, 51.9121, -19.4164]
+聲gulos: (198.0, -36.0)
+Cent璥etros: -36.0
+Distancia euclidiana: 0.2399
+
+Vector consultado: [13.232237, 58.115676, -4.429419]
+Vector cercano: [13.0065, 57.7042, -5.0059]
+聲gulos: (135.0, 81.0)
+Cent璥etros: 81.0
+Distancia euclidiana: 0.7434
+
+Vector consultado: [-28.677578, 50.222433, -10.011798]
+Vector cercano: [-28.5317, 50.0, -9.27051]
+聲gulos: (180.0, 72.0)
+Cent璥etros: 72.0
+Distancia euclidiana: 0.7876
+
+Vector consultado: [-11.327493, 61.668899, -4.146525]
+Vector cercano: [-11.4621, 59.8351, -3.6585]
+聲gulos: (156.0, 84.0)
+Cent璥etros: 84.0
+Distancia euclidiana: 1.9024
+
+Tiempo de ejecuci鏮: 19.18214 segundos
